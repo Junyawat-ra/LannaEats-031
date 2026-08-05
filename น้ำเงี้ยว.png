@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://archives.mju.ac.th/localfood/xmlrpc.php" />
+<title>ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา - Local Food Discovery</title>
+  <meta name='robots' content='max-image-preview:large' />
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="IEtgvAU5moOmLrzH2Kmd5t7NIeniED1ImzA2pWWtgjQ">
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='preconnect' href='//c0.wp.com' />
+<link rel='preconnect' href='//i0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Local Food Discovery &raquo; Feed" href="https://archives.mju.ac.th/localfood/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Local Food Discovery &raquo; Comments Feed" href="https://archives.mju.ac.th/localfood/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Local Food Discovery &raquo; ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา Comments Feed" href="https://archives.mju.ac.th/localfood/?feed=rss2&#038;p=2295" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://archives.mju.ac.th/localfood/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Farchives.mju.ac.th%2Flocalfood%2F%3Fp%3D2295" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://archives.mju.ac.th/localfood/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Farchives.mju.ac.th%2Flocalfood%2F%3Fp%3D2295&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://c0.wp.com/c/7.0.2/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-list-inline-css">
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://c0.wp.com/c/7.0.2/wp-includes/blocks/list/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://c0.wp.com/c/7.0.2/wp-includes/blocks/paragraph/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="ai_summarization-inline-css">
+.ai-summarization-summary{--ai-summary-border-color:#1d2327;--ai-summary-background-color:rgba(29,35,39,.04);background-color:var(--ai-summary-background-color);border-left:4px solid var(--ai-summary-border-color);padding:1em 1.25em}.ai-summarization-summary>:last-child{margin-bottom:0}.ai-summarization-plugin-container .components-button.ai-summarization-plugin-button{justify-content:center;width:100%}.ai-summarization-plugin-container .description{color:#757575}.block-editor-block-popover .ai-summarization-block-controls-button{height:46px;margin-top:1px}
+
+/*# sourceURL=https://archives.mju.ac.th/localfood/wp-content/plugins/ai/build-scripts/experiments/summarization.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--font-family--ibm-plex-sans-thai-looped: "IBM Plex Sans Thai Looped", sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}.has-ibm-plex-sans-thai-looped-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans-thai-looped) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css' href='https://archives.mju.ac.th/localfood/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css?ver=1.5.2' media='all' />
+<link rel='stylesheet' id='jetpack-instant-search-css' href='https://archives.mju.ac.th/localfood/wp-content/plugins/jetpack-search/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.chunk-main-payload.css?minify=false&#038;ver=9de017be31cb883a04fb' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/css/bootstrap.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/owl-carousel/owl.carousel.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='cookandmeal-stylesheet-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/style.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='cookandmeal-responsive-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/responsive.css?ver=all' media='all' />
+<link rel='stylesheet' id='cookandmeal-animations-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/css/animations.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/css/font-awesome.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='cookandmeal-select2-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/select2/select2.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/css/idangerous.swiper.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='aos-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/aos/aos.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://c0.wp.com/c/7.0.2/wp-includes/css/dashicons.min.css' media='all' />
+<link rel='stylesheet' id='thickbox-css' href='https://c0.wp.com/c/7.0.2/wp-includes/js/thickbox/thickbox.css' media='all' />
+<style id="jetpack_likes-inline-css">
+#jp-post-flair{padding-top:.5em}#content div.sharedaddy,#main div.sharedaddy,div.sharedaddy{clear:both}div.sharedaddy h3.sd-title{display:inline-block;font-size:9pt;font-weight:700;line-height:1.2;margin:0 0 1em}div.sharedaddy h3.sd-title:before{border-top:1px solid #dcdcde;content:"";display:block;margin-bottom:1em;min-width:30px;width:100%}div.jetpack-likes-widget-wrapper{min-height:50px;position:relative;width:100%}div.jetpack-likes-widget-wrapper .sd-link-color{font-size:12px}div.jetpack-comment-likes-widget-wrapper{min-height:31px;position:relative;width:100%}div.jetpack-comment-likes-widget-wrapper iframe{margin-bottom:0}#likes-other-gravatars{background-color:#fff;border:1px solid #dcdcde;border-radius:4px;box-shadow:none;display:none;height:auto;max-height:240px;min-width:220px;overflow:auto;padding:9px 12px 10px;position:absolute;z-index:1000}#likes-other-gravatars *{line-height:normal}#likes-other-gravatars .likes-text{color:#101517;font-size:12px;font-weight:500;padding-bottom:8px}#likes-other-gravatars :is(li,ul){list-style-type:none;margin:0;padding:0;text-indent:0}#likes-other-gravatars li:before{content:""}#likes-other-gravatars ul.wpl-avatars{display:block;max-height:190px;overflow:auto}#likes-other-gravatars ul.wpl-avatars li{float:none;height:28px;margin:0 0 4px;width:196px}#likes-other-gravatars ul.wpl-avatars li a{align-items:center;border-bottom:none!important;display:flex;gap:8px;margin:0 2px 0 0;text-decoration:none}#likes-other-gravatars ul.wpl-avatars li a span{color:#2c3338;font-size:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#likes-other-gravatars ul.wpl-avatars li a img{background:none;border:none;border-radius:50%;box-sizing:border-box;margin:0!important;padding:1px!important;position:static}div.sd-box{border-top:1px solid #00000021}.jetpack-likes-widget-loaded iframe,.jetpack-likes-widget-loading .likes-widget-placeholder,.jetpack-likes-widget-unloaded .likes-widget-placeholder{display:block}.jetpack-likes-widget-loaded .likes-widget-placeholder,.jetpack-likes-widget-loading iframe,.jetpack-likes-widget-unloaded iframe{display:none}.comment-likes-widget,.entry-content .post-likes-widget,.post-likes-widget{border-width:0;margin:0}.comment-likes-widget-placeholder,.post-likes-widget-placeholder{border-width:0;margin:0;position:relative}.comment-likes-widget-placeholder{display:flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;height:18px;position:absolute}.comment-likes-widget-placeholder:before{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='none' d='M0 0h24v24H0z'/%3E%3Cpath fill='%232ea2cc' d='m12 2 2.582 6.953L22 9.257l-5.822 4.602L18.18 21 12 16.89 5.82 21l2.002-7.14L2 9.256l7.418-.304'/%3E%3C/svg%3E");background-repeat:no-repeat;background-size:16px 16px;color:#2ea2cc;content:"";display:inline-block;height:16px;padding-right:5px;position:relative;top:3px;width:16px}.post-likes-widget-placeholder .button{display:none}:is(.comment-likes-widget-placeholder,.post-likes-widget-placeholder) .loading{color:#999;font-size:12px}.comment-likes-widget-placeholder .loading{align-self:center;color:#4e4e4e;margin-top:4px;padding-left:5px}div.sharedaddy.sd-like-enabled .sd-like h3{display:none}div.sharedaddy.sd-like-enabled .sd-like .post-likes-widget{float:none;position:absolute;top:0;width:100%}.comment-likes-widget{width:100%}.cs-rating,.pd-rating{display:block!important}.sd-gplus .sd-title{display:none}@media print{.jetpack-likes-widget-wrapper{display:none}}
+/*# sourceURL=https://archives.mju.ac.th/localfood/wp-content/plugins/jetpack/_inc/build/likes/style.min.css */
+</style>
+<link rel='stylesheet' id='cookandmeal-mega-menu-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/inc/modules/mega-menu/css/mega-menu.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='cookandmeal-mega-menu-responsive-css' href='https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/inc/modules/mega-menu/css/mega-menu-responsive.css?ver=7.0.2' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://archives.mju.ac.th/localfood/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' media='all' />
+<link rel='stylesheet' id='style-cache-cookandmeal-css' href='https://archives.mju.ac.th/localfood/wp-content/uploads/style-cache-cookandmeal.css?ver=1781488740.8159' media='all' />
+<link rel='stylesheet' id='sharedaddy-css' href='https://c0.wp.com/p/jetpack/16.0.1/modules/sharedaddy/sharing.css' media='all' />
+<link rel='stylesheet' id='social-logos-css' href='https://c0.wp.com/p/jetpack/16.0.1/_inc/build/social-logos/social-logos.css' media='all' />
+<script id="jquery-core-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/jquery/jquery.min.js"></script>
+<script id="jquery-migrate-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script id="dompurify-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/responsive-lightbox/assets/dompurify/purify.min.js?ver=3.3.1"></script>
+<script id="responsive-lightbox-sanitizer-js-before">
+window.RLG = window.RLG || {}; window.RLG.sanitizeAllowedHosts = ["youtube.com","www.youtube.com","youtu.be","vimeo.com","player.vimeo.com"];
+//# sourceURL=responsive-lightbox-sanitizer-js-before
+</script>
+<script id="responsive-lightbox-sanitizer-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/responsive-lightbox/js/sanitizer.js?ver=2.7.8"></script>
+<script id="responsive-lightbox-swipebox-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.min.js?ver=1.5.2"></script>
+<script id="underscore-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/underscore.min.js"></script>
+<script id="responsive-lightbox-infinite-scroll-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=4.0.1"></script>
+<script id="responsive-lightbox-js-before">
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":true,"animation":true,"hideCloseButtonOnMobile":false,"removeBarsOnMobile":false,"hideBars":true,"hideBarsDelay":5000,"videoMaxWidth":1080,"useSVG":true,"loopAtEnd":false,"woocommerce_gallery":false,"ajaxurl":"https:\/\/archives.mju.ac.th\/localfood\/wp-admin\/admin-ajax.php","nonce":"7cde3b7d49","preview":false,"postId":2295,"scriptExtension":false};
+
+//# sourceURL=responsive-lightbox-js-before
+</script>
+<script id="responsive-lightbox-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.7.8"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-P8ZBNGD5" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["archives.mju.ac.th"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-P8ZBNGD5");
+//# sourceURL=google_gtagjs-js-after
+</script>
+<script id="js-cache-cookandmeal-js" src="https://archives.mju.ac.th/localfood/wp-content/uploads/js-cache-cookandmeal.js?ver=1781488740.8329"></script>
+<link rel="https://api.w.org/" href="https://archives.mju.ac.th/localfood/index.php?rest_route=/" /><link rel="alternate" title="JSON" type="application/json" href="https://archives.mju.ac.th/localfood/index.php?rest_route=/wp/v2/posts/2295" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://archives.mju.ac.th/localfood/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.2" />
+<link rel="canonical" href="https://archives.mju.ac.th/localfood/?p=2295" />
+<link rel='shortlink' href='https://wp.me/pfB7Aw-B1' />
+<meta name="generator" content="Site Kit by Google 1.184.0" />		<script >
+			(function(c, l, a, r, i, t, y) {
+				c[a] = c[a] || function() {
+					(c[a].q = c[a].q || []).push(arguments)
+				};
+				t = l.createElement(r);
+				t.async = 1;
+				t.src = "https://www.clarity.ms/tag/" + i + "?ref=wordpress";
+				y = l.getElementsByTagName(r)[0];
+				y.parentNode.insertBefore(t, y);
+			})(window, document, "clarity", "script", "m1ewrknetv");
+		</script>
+		<style>img#wpstats{display:none}</style>
+		<meta name="description" content="เมื่อเอ่ยถึงอาหารเหนือที่ทั้งอร่อย น่าจดจำ และเปี่ยมด้วยเอกลักษณ์ทางวัฒนธรรม “ขนมจีนน้ำเงี้ยว” ย่อมติดอันดับต้น ๆ ที่หลายคนโหยหาทันที กลิ่นหอมของดอกงิ้ว ตัดกับรสเปรี้ยวของมะเขือเทศ และรสเค็มมันจากน้ำเลือดผสมกับเครื่องแกงเข้มข้น ล้วนหลอมรวมเป็นรสชาติที่ยากจะลืมเลือน แต่น้อยคนนักจะรู้ว่า ขนมจีนน้ำเงี้ยวไม่ได้เกิดในครัวเรือนของชาวไทยพื้นถิ่นโดยตรง หากแต่มีรากเหง้ามาจากกลุ่มชาติพันธุ์ที่มีบทบาทอย่างลึกซึ้งในประวัติศาสตร์ล้านนา นั่นคือ “ชาวไทใหญ่” หรือที่เรียกกันตามภาษาชาวบ้านว่า “เงี้ยว” จากชาวไทใหญ่ สู่ครัวล้านนา ขนมจีนน้ำเงี้ยว เป็นอาหารที่เกิดจากการผสมผสานทางวัฒนธรรมของกลุ่มชาติพันธุ์ไทใหญ่ ซึ่งมีถิ่นฐานอยู่ในเขตพื้นที่รัฐฉาน ประเทศพม่า และอพยพเข้าสู่ภาคเหนือของไทยผ่านเส้นทางประวัติศาสตร์การค้า การอพยพ และการเมือง ตั้งแต่สมัยอาณาจักรล้านนา คำว่า “น้ำเงี้ยว” มีรากศัพท์จากภาษาพื้นถิ่นที่หมายถึง “แกงของเงี้ยว” ซึ่งต่อมาได้กลายเป็นที่นิยมในหมู่ชาวล้านนาและกลายเป็นอาหารประจำถิ่นที่มีความโดดเด่นเฉพาะตัว เอกลักษณ์ในรสชาติ น้ำแกงของน้ำเงี้ยวมีส่วนประกอบหลักจาก มะเขือเทศ ซึ่งให้รสเปรี้ยวอ่อน ๆ และความหวานธรรมชาติ เสริมด้วย ดอกงิ้วแห้ง ที่ให้กลิ่นหอมเฉพาะและเนื้อสัมผัสที่นุ่มเคี้ยวเพลิน น้ำเลือดหมูหรือน้ำเลือดไก่เป็นหัวใจของความกลมกล่อม ที่เมื่อเคี่ยวกับเครื่องแกงที่โขลกสด จะให้รสชาติที่เข้มข้นลุ่มลึก บางสูตรยังใส่ เต้าเจี้ยว ซึ่งเป็นวัตถุดิบของชาวไทใหญ่ เพิ่มกลิ่นหอมและรสเค็มอ่อน ๆ ที่แตกต่างจากสูตรทางภาคกลาง ส่วนเส้นขนมจีนที่ใช้ ก็มักเป็นเส้นหมักที่มีกลิ่นเปรี้ยวเล็กน้อย ซึ่งเข้ากันได้ดีกับน้ำแกงร้อน ๆ&hellip;" />
+<meta name="generator" content="Powered by Slider Revolution 6.6.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา - Local Food Discovery" />
+<meta property="og:url" content="https://archives.mju.ac.th/localfood/?p=2295" />
+<meta property="og:description" content="เมื่อเอ่ยถึงอาหารเหนือที่ทั้งอร่อย น่าจดจำ และเปี่ยมด้วยเอกลักษณ์ทางวัฒนธรรม “ขนมจีนน้ำเงี้ยว” ย่อมติดอันดับต้น ๆ ที่หลายคนโหยหาทันที กลิ่นหอมของดอกงิ้ว ตัดกับรสเปรี้ยวของมะเขือเทศ และรสเค็มมันจากน…" />
+<meta property="article:published_time" content="2025-04-10T07:08:02+00:00" />
+<meta property="article:modified_time" content="2025-04-10T07:08:07+00:00" />
+<meta property="og:site_name" content="Local Food Discovery" />
+<meta property="og:image" content="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?fit=500%2C500&#038;ssl=1" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="500" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" />
+<meta name="twitter:image" content="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?fit=500%2C500&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2024/11/cropped-LFD.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2024/11/cropped-LFD.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2024/11/cropped-LFD.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2024/11/cropped-LFD.png?fit=270%2C270&#038;ssl=1" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style id="wp-custom-css">
+
+/* Fullwidth slider block */
+.content-block .html-block-container:nth-child(1) {
+    width: 100% !important;
+}
+
+
+</style>
+<style id="kirki-inline-styles">body{font-family:IBM Plex Sans Thai Looped;font-size:16px;font-weight:400;color:#000000;}/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(C:\projects\localfood/wp-content/fonts/tangerine/IurY6Y5j_oScZZow4VOxCZZM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(C:\projects\localfood/wp-content/fonts/tangerine/Iurd6Y5j_oScZZow4VO5srNZi5FN.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6rnmsJCQ.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6t3msJCQ.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6rXmsJCQ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6o3ms.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BiKoWGo.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9AGKoWGo.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BuKoWGo.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BWKoQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(C:\projects\localfood/wp-content/fonts/tangerine/IurY6Y5j_oScZZow4VOxCZZM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(C:\projects\localfood/wp-content/fonts/tangerine/Iurd6Y5j_oScZZow4VO5srNZi5FN.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6rnmsJCQ.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6t3msJCQ.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6rXmsJCQ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6o3ms.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BiKoWGo.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9AGKoWGo.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BuKoWGo.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BWKoQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(C:\projects\localfood/wp-content/fonts/tangerine/IurY6Y5j_oScZZow4VOxCZZM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(C:\projects\localfood/wp-content/fonts/tangerine/Iurd6Y5j_oScZZow4VO5srNZi5FN.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6rnmsJCQ.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6t3msJCQ.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6rXmsJCQ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss5AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_Ha6o3ms.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_NqrtF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_L6otF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BiKoWGo.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9AGKoWGo.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BuKoWGo.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BWKoQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_OaptF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_MqutF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtFOJGR0i.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* thai */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtEqJGR0i.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtFCJGR0i.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://archives.mju.ac.th/localfood/wp-content/fonts/ibm-plex-sans-thai-looped/tss6AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L_K6vtF6JGQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><link rel='stylesheet' id='rs-plugin-settings-css' href='https://archives.mju.ac.th/localfood/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.5' media='all' />
+<style id="rs-plugin-settings-inline-css">
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-2295 single-format-standard wp-theme-cookandmeal jps-theme-cookandmeal blog-post-transparent-header-disable blog-slider-disable blog-enable-dropcaps blog-enable-images-animations blog-style-corners-rounded blog-home-block-title-center blog-home-block-title-style-doodle blog-home-block-subtitle-style-regular blog-post-details-align-left">
+
+<script id='jetpack-search-theme-token-sampler'>(function(){try{var c=getComputedStyle(document.body),r=document.documentElement,ink=c.color,bg=c.backgroundColor;if(ink){r.style.setProperty('--jp-search-page-ink',ink);}if(bg&&bg!==ink&&bg!=='rgba(0, 0, 0, 0)'&&bg!=='transparent'){r.style.setProperty('--jp-search-page-surface',bg);}}catch(e){}})();</script>
+
+
+    
+
+<header class="main-header clearfix header-layout-menu-above-header-border mainmenu-light">
+<div class="blog-post-reading-progress"></div>
+<div class="container">
+
+  
+    
+    
+    
+  <div class="row">
+    <div class="col-md-12">
+
+      <div class="header-left">
+        <div class="social-icons-wrapper no-description"><a href="https://facebook.com/" target="_blank" class="a-facebook no-description"><i class="fa fa-facebook"></i></a><a href="https://instagram.com/" target="_blank" class="a-instagram no-description"><i class="fa fa-instagram"></i></a><a href="" target="_blank" class="a-youtube no-description"><i class="fa fa-youtube"></i></a></div>      </div>
+
+      <div class="header-center">
+                    <div class="logo"><a class="logo-link logo-text" href="https://archives.mju.ac.th/localfood">Local Food Discovery</a>
+        <div class="header-blog-info header-blog-info-regular">สำรวจและค้นพบอาหารท้องถิ่น</div>        </div>
+        
+          </div>
+
+      <div class="header-right">
+                <div class="search-toggle-wrapper closed-search search-enable">
+          <a class="search-toggle-btn" aria-label="Search toggle"><i class="fa fa-search" aria-hidden="true"></i></a>
+          <div class="header-center-search-form">
+            <form method="get" role="search" class="searchform" action="https://archives.mju.ac.th/localfood/">
+    <input type="search" aria-label="Search" class="field" name="s" value="" placeholder="Type keyword(s) here&hellip;" /><input type="submit" class="submit btn" value="Search" />
+</form>
+          </div>
+        </div>
+        
+              </div>
+
+    </div>
+  </div>
+
+</div>
+</header>
+
+
+	
+<div class="content-block post-header-inheader2 post-sidebar-disable">
+<div class="container container-page-item-title container-page-item-title-image-only with-bg" data-style="background-image: url(https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?resize=500%2C500&amp;ssl=1);" data-speed="0.1">
+        <div class="col-overlay">
+    </div>
+</div>
+	<div class="post-container container span-col-md-12 post-single-content">
+		<div class="row">
+						<div class="col-md-12 post-single-content">
+				<div class="blog-post blog-post-single hentry clearfix">
+					<div class="container-page-item-title container-page-item-title-inside without-bg">
+    <div class="page-item-title-single page-item-title-single-inside">
+                <div class="cookandmeal-post-single cookandmeal-post">
+            <div class="post-categories"><a href="https://archives.mju.ac.th/localfood/?cat=32" data-style="background-color: #000000;"><i class="fa fa-tag cat-dot"></i><span class="cat-title">Curry</span></a></div>
+            <div class="cookandmeal-post-details">
+                <h1 class="post-title entry-title">ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา</h1>
+                                <div class="post-date"><time class="entry-date published updated" datetime="2025-04-10T14:08:02+07:00">10 April 2025</time></div>
+                                <div class="post-info-dot"></div>
+                <div class="post-read-time"><i class="fa fa-clock-o" aria-hidden="true"></i>1 ชั่วโมง Cook</div>
+                                <div class="post-details-bottom post-details-bottom-inline">
+
+    <div class="post-info-wrapper">
+            <div class="post-info-comments"><i class="fa fa-comment-o" aria-hidden="true"></i><a href="https://archives.mju.ac.th/localfood/?p=2295#respond">0</a></div>
+        
+        <div class="post-info-views"><i class="fa fa-eye" aria-hidden="true"></i>3771</div>
+            <div class="post-info-likes"><a href="#" class="post-like-button" data-id="2295"><i class="fa fa-heart-o" aria-hidden="true"></i></a><span class="post-like-counter">38</span></div>
+        </div>
+
+        <div class="post-info-share">
+      	<div class="post-social-wrapper">
+        <div class="post-social-title"><span class="post-social-title-text">Share</span></div>
+        <div class="post-social-frame">
+    		<div class="post-social">
+    			<a title="Share with Facebook" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="facebook" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" class="facebook-share"> <i class="fa fa-facebook"></i></a><a title="Pin this" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="pinterest" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" data-image="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?resize=500%2C500&amp;ssl=1" class="pinterest-share"> <i class="fa fa-pinterest"></i></a><a title="Share by Email" href="mailto:?subject=ขนมจีนน้ำเงี้ยว:%20อาหารแห่งรากเหง้าไทใหญ่%20สู่วิถีล้านนา&body=https://archives.mju.ac.th/localfood/?p=2295" data-type="link" class="email-share"> <i class="fa fa-envelope-o"></i></a>    		</div>
+        </div>
+		<div class="clear"></div>
+	</div>
+	    </div>
+    
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+										<a href="#post-recipe-block" class="scroll-to-recipe">Scroll to recipe</a>
+										<article id="post-2295" class="post-2295 post type-post status-publish format-standard has-post-thumbnail category-curry tag-404 tag-403 tag-402 tag-28 tag-29 tag-153 tag-43 tag-45 tag-44" role="main">
+						<div class="post-content-wrapper">
+							<div class="post-content clearfix">
+																<div class="blog-post-thumb">
+
+									<img width="500" height="500" src="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?resize=500%2C500&amp;ssl=1" class="attachment-cookandmeal-blog-thumb size-cookandmeal-blog-thumb wp-post-image" alt="" decoding="async" fetchpriority="high" data-attachment-id="2297" data-permalink="https://archives.mju.ac.th/localfood/?attachment_id=2297" data-orig-file="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?fit=500%2C500&amp;ssl=1" data-orig-size="500,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ขนมจีนน้ำเงี้ยว1" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?fit=500%2C500&amp;ssl=1" />
+								</div>
+								
+																																								<div class="entry-content">
+
+								
+<p class="wp-block-paragraph">เมื่อเอ่ยถึงอาหารเหนือที่ทั้งอร่อย น่าจดจำ และเปี่ยมด้วยเอกลักษณ์ทางวัฒนธรรม “<strong>ขนมจีนน้ำเงี้ยว</strong>” ย่อมติดอันดับต้น ๆ ที่หลายคนโหยหาทันที กลิ่นหอมของดอกงิ้ว ตัดกับรสเปรี้ยวของมะเขือเทศ และรสเค็มมันจากน้ำเลือดผสมกับเครื่องแกงเข้มข้น ล้วนหลอมรวมเป็นรสชาติที่ยากจะลืมเลือน</p>
+
+
+
+<p class="wp-block-paragraph">แต่น้อยคนนักจะรู้ว่า ขนมจีนน้ำเงี้ยวไม่ได้เกิดในครัวเรือนของชาวไทยพื้นถิ่นโดยตรง หากแต่มีรากเหง้ามาจากกลุ่มชาติพันธุ์ที่มีบทบาทอย่างลึกซึ้งในประวัติศาสตร์ล้านนา นั่นคือ “<strong>ชาวไทใหญ่</strong>” หรือที่เรียกกันตามภาษาชาวบ้านว่า “<strong>เงี้ยว</strong>”</p>
+
+
+
+<h3 class="wp-block-heading">จากชาวไทใหญ่ สู่ครัวล้านนา</h3>
+
+
+
+<p class="wp-block-paragraph">ขนมจีนน้ำเงี้ยว เป็นอาหารที่เกิดจากการผสมผสานทางวัฒนธรรมของกลุ่มชาติพันธุ์ไทใหญ่ ซึ่งมีถิ่นฐานอยู่ในเขตพื้นที่รัฐฉาน ประเทศพม่า และอพยพเข้าสู่ภาคเหนือของไทยผ่านเส้นทางประวัติศาสตร์การค้า การอพยพ และการเมือง ตั้งแต่สมัยอาณาจักรล้านนา</p>
+
+
+
+<p class="wp-block-paragraph">คำว่า “น้ำเงี้ยว” มีรากศัพท์จากภาษาพื้นถิ่นที่หมายถึง “แกงของเงี้ยว” ซึ่งต่อมาได้กลายเป็นที่นิยมในหมู่ชาวล้านนาและกลายเป็นอาหารประจำถิ่นที่มีความโดดเด่นเฉพาะตัว</p>
+
+
+
+<h3 class="wp-block-heading"> เอกลักษณ์ในรสชาติ</h3>
+
+
+
+<p class="wp-block-paragraph">น้ำแกงของน้ำเงี้ยวมีส่วนประกอบหลักจาก <strong>มะเขือเทศ</strong> ซึ่งให้รสเปรี้ยวอ่อน ๆ และความหวานธรรมชาติ เสริมด้วย <strong>ดอกงิ้วแห้ง</strong> ที่ให้กลิ่นหอมเฉพาะและเนื้อสัมผัสที่นุ่มเคี้ยวเพลิน น้ำเลือดหมูหรือน้ำเลือดไก่เป็นหัวใจของความกลมกล่อม ที่เมื่อเคี่ยวกับเครื่องแกงที่โขลกสด จะให้รสชาติที่เข้มข้นลุ่มลึก</p>
+
+
+
+<p class="wp-block-paragraph">บางสูตรยังใส่ <strong>เต้าเจี้ยว</strong> ซึ่งเป็นวัตถุดิบของชาวไทใหญ่ เพิ่มกลิ่นหอมและรสเค็มอ่อน ๆ ที่แตกต่างจากสูตรทางภาคกลาง ส่วนเส้นขนมจีนที่ใช้ ก็มักเป็นเส้นหมักที่มีกลิ่นเปรี้ยวเล็กน้อย ซึ่งเข้ากันได้ดีกับน้ำแกงร้อน ๆ และเครื่องเคียง เช่น ผักกาดดอง กระเทียมเจียว ถั่วงอก และพริกแห้งทอด</p>
+
+
+
+<h3 class="wp-block-heading">จากครัวชาวบ้าน สู่จานงานบุญ</h3>
+
+
+
+<p class="wp-block-paragraph">ในอดีต ขนมจีนน้ำเงี้ยวเป็นอาหารที่นิยมทำกันในงานบุญ งานวัด งานศพ หรืองานเลี้ยงต้อนรับแขกบ้านแขกเมือง เพราะสามารถทำหม้อใหญ่ได้ง่าย รสชาติถูกปากคนทุกวัย และเก็บไว้รับประทานได้หลายมื้อ</p>
+
+
+
+<p class="wp-block-paragraph">ปัจจุบัน เมนูนี้ได้กลายเป็นอาหารสามัญของคนเหนือ และแพร่หลายไปทั่วประเทศไทย โดยยังคงรักษารากวัฒนธรรมและรสชาติดั้งเดิมไว้อย่างดี บางจังหวัดยังจัดเทศกาล “ขนมจีนน้ำเงี้ยว” เพื่อเฉลิมฉลองความเป็นอัตลักษณ์ทางอาหารอีกด้วย</p>
+
+
+
+<h3 class="wp-block-heading">อาหารที่เป็นมากกว่าอาหาร</h3>
+
+
+
+<p class="wp-block-paragraph">ขนมจีนน้ำเงี้ยวไม่ใช่แค่อาหารที่อร่อย แต่ยังเป็นสื่อกลางในการเล่าเรื่องราวของการอยู่ร่วมกันของผู้คนหลากชาติพันธุ์ในดินแดนล้านนา เป็นเครื่องพิสูจน์ว่ารสชาติที่แท้จริงของอาหาร ไม่ได้เกิดจากวัตถุดิบหรือเครื่องเทศเพียงอย่างเดียว แต่เกิดจาก “ความสัมพันธ์” ที่ผู้คนมีต่อกัน</p>
+
+
+
+<h2 class="wp-block-heading">เอกสารอ้างอิง</h2>
+
+
+
+<ol class="wp-block-list">
+<li>มูลนิธิเล็ก-ประไพ วิริยะพันธุ์. (2564). <em>ขนมจีนน้ำเงี้ยว: อาหารพื้นเมืองของชาวไทใหญ่</em>. กรุงเทพฯ: สำนักพิมพ์มติชน.</li>
+
+
+
+<li>สมชาย ศรีสกุล. (2558). &#8220;วัฒนธรรมอาหารภาคเหนือ: การศึกษาเชิงลึก&#8221;, <em>วารสารวิจัยวัฒนธรรม</em>, 7(2), 45-60.</li>
+
+
+
+<li>สุภัทรา วงศ์คำจันทร์. (2560). <em>อาหารพื้นบ้านล้านนา</em>. เชียงใหม่: สำนักพิมพ์มหาวิทยาลัยเชียงใหม่.</li>
+
+
+
+<li>วิกิพีเดีย. (2567). <em>ขนมจีนน้ำเงี้ยว</em>. สืบค้นจาก: <a class="" href="https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7">https://th.wikipedia.org/wiki/ขนมจีนน้ำเงี้ยว</a></li>
+</ol>
+
+
+
+<h3 class="wp-block-heading">ผู้ให้ข้อมูลเมนูขนมจีนน้ำเงี้ยว</h3>
+
+
+
+<p class="wp-block-paragraph">บทความนี้อ้างอิงข้อมูลเมนูขนมจีนน้ำเงี้ยวจากผู้ให้ข้อมูลในพื้นที่ภาคเหนือของไทย 2 ท่าน ได้แก่:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>นางเขียว สนธิ</strong>
+<ul class="wp-block-list">
+<li>พื้นที่: ตำบลเมืองคอง อำเภอเชียงดาว จังหวัดเชียงใหม่</li>
+
+
+
+<li>ให้ข้อมูลเกี่ยวกับประวัติอาหารว่า “ขนมจีนน้ำเงี้ยวเป็นอาหารที่ได้รับความนิยมในหมู่ชาวล้านนามาแต่อดีตจนถึงปัจจุบัน”</li>
+
+
+
+<li>เสนอสูตรที่ใช้วัตถุดิบหลักคือเส้นขนมจีน 1 กิโลกรัม เลือดหมูหรือเลือดไก่ และเครื่องปรุงพื้นบ้าน เช่น ดอกงิ้ว มะเขือเทศ พริกขี้หนู หอมแดง กระเทียมเจียว ฯลฯ</li>
+
+
+
+<li>ใช้สมุนไพรอย่าง <strong>ดอกงิ้ว</strong> ที่มีสรรพคุณห้ามเลือด และบำรุงระบบไหลเวียนโลหิต</li>
+</ul>
+</li>
+
+
+
+<li><strong>นางฟามฟุ แซ่ฟุ้ง</strong>
+<ul class="wp-block-list">
+<li>พื้นที่: ตำบลศรีถ้อย อำเภอแม่ใจ จังหวัดพะเยา</li>
+
+
+
+<li>ให้ข้อมูลขั้นตอนการปรุงอย่างละเอียด เช่น การต้มเลือดไก่ หมูสับ โขลกเครื่องแกง และใส่มะเขือเทศ ดอกงิ้วลงไปต้มรวมกัน</li>
+
+
+
+<li>เน้นเครื่องปรุงพื้นบ้าน เช่น เต้าเจี้ยว กระเทียมเจียว และผักชี</li>
+
+
+
+<li>ใช้สมุนไพรท้องถิ่น เช่น มะเขือเทศ ดอกงิ้ว พริกชี้ฟ้า และรากผักชี ซึ่งมีสรรพคุณทั้งด้านสุขภาพและความเชื่อพื้นบ้าน</li>
+</ul>
+</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-facebook-2295"
+				class="share-facebook sd-button share-icon"
+				href="https://archives.mju.ac.th/localfood/?p=2295&#038;share=facebook"
+				target="_blank"
+				aria-labelledby="sharing-facebook-2295"
+				>
+				<span id="sharing-facebook-2295" hidden>Share on Facebook (Opens in new window)</span>
+				<span>Facebook</span>
+			</a></li><li class="share-x"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-x-2295"
+				class="share-x sd-button share-icon"
+				href="https://archives.mju.ac.th/localfood/?p=2295&#038;share=x"
+				target="_blank"
+				aria-labelledby="sharing-x-2295"
+				>
+				<span id="sharing-x-2295" hidden>Share on X (Opens in new window)</span>
+				<span>X</span>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-230492348-2295-6a73227234614' data-src='https://widgets.wp.com/likes/?ver=16.0.1#blog_id=230492348&amp;post_id=2295&amp;origin=archives.mju.ac.th&amp;obj_id=230492348-2295-6a73227234614' data-name='like-post-frame-230492348-2295-6a73227234614' data-title='Like or Reblog'><h3 class="sd-title">Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading"><svg class="jetpack-spinner" width="18" height="18" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg><span class="screen-reader-text">Loading…</span></span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+																</div><!-- .entry-content -->
+
+																<div class="cookandmeal-social-share-fixed sidebar-position-disable">
+										<div class="post-social-wrapper">
+        <div class="post-social-title"><span class="post-social-title-text">Share</span></div>
+        <div class="post-social-frame">
+    		<div class="post-social">
+    			<a title="Share with Facebook" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="facebook" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" class="facebook-share"> <i class="fa fa-facebook"></i></a><a title="Pin this" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="pinterest" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" data-image="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?resize=500%2C500&amp;ssl=1" class="pinterest-share"> <i class="fa fa-pinterest"></i></a><a title="Share by Email" href="mailto:?subject=ขนมจีนน้ำเงี้ยว:%20อาหารแห่งรากเหง้าไทใหญ่%20สู่วิถีล้านนา&body=https://archives.mju.ac.th/localfood/?p=2295" data-type="link" class="email-share"> <i class="fa fa-envelope-o"></i></a>    		</div>
+        </div>
+		<div class="clear"></div>
+	</div>
+									</div>
+								
+								
+																</div>
+
+						</div>
+
+					</article>
+					<div class="post-recipe-block with-bg" id="post-recipe-block" vocab="https://schema.org/" typeof="Recipe">
+
+        <div class="post-recipe-image cookandmeal-parallax" data-style="background-image: url(https://archives.mju.ac.th/localfood/wp-content/uploads/2025/04/ขนมจีนน้ำเงี้ยว.png);" data-speed="0.1">
+        	<div class="post-social-wrapper">
+        <div class="post-social-title"><span class="post-social-title-text">Share</span></div>
+        <div class="post-social-frame">
+    		<div class="post-social">
+    			<a title="Share with Facebook" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="facebook" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" class="facebook-share"> <i class="fa fa-facebook"></i></a><a title="Pin this" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="pinterest" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" data-image="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?resize=500%2C500&amp;ssl=1" class="pinterest-share"> <i class="fa fa-pinterest"></i></a><a title="Share by Email" href="mailto:?subject=ขนมจีนน้ำเงี้ยว:%20อาหารแห่งรากเหง้าไทใหญ่%20สู่วิถีล้านนา&body=https://archives.mju.ac.th/localfood/?p=2295" data-type="link" class="email-share"> <i class="fa fa-envelope-o"></i></a>    		</div>
+        </div>
+		<div class="clear"></div>
+	</div>
+	        <img src="https://archives.mju.ac.th/localfood/wp-content/uploads/2025/04/ขนมจีนน้ำเงี้ยว.png" class="rdf-hidden" alt="ขนมจีนน้ำเงี้ยว" property="image"/>
+    </div>
+    
+    <div class="post-recipe-header"><h3 property="name">ขนมจีนน้ำเงี้ยว</h3><div class="rdf-hidden" property="author">yaowapa</div></div>
+        <div class="post-recipe-summary clearfix">
+        คุณค่าทางโภชนาการของขนมจีนน้ำเงี้ยว
+เมนูขนมจีนน้ำเงี้ยวถือเป็นอาหารพื้นบ้านที่ไม่เพียงแต่อร่อยและกลมกล่อม แต่ยังเปี่ยมไปด้วยคุณค่าทางโภชนาการจากวัตถุดิบพื้นบ้านและสมุนไพรธรรมชาติ โดยเฉพาะในเครื่องแกงและน้ำแกงที่รวมคุณประโยชน์หลากหลายไว้ในชามเดียว ดังนี้:
+- มะเขือเทศ : อุดมด้วยสาร ไลโคปีน (Lycopene) ซึ่งเป็นสารต้านอนุมูลอิสระ มี วิตามิน C, A, B1, B2, K ช่วยบำรุงผิวพรรณ ป้องกันโรคหัวใจ และความดันโลหิตสูงมี กรดมาลิก และกรดซิตริก ที่ช่วยในการย่อยอาหาร
+- ดอกงิ้วแห้ง : เป็นสมุนไพรพื้นเมืองล้านนา เกสรดอกงิ้วแห้ง ใช้ในตำรับยาพื้นบ้านว่า ห้ามเลือด และ บำรุงโลหิต เปลือกต้นช่วยบรรเทาอาการบวมจากการกระแทกรากงิ้วใช้เป็น ยาบำรุงกำลัง
+- พริกขี้หนู : มีสาร แคปไซซิน (Capsaicin) ที่ช่วยเร่งการเผาผลาญพลังงาน อุดมด้วยวิตามิน A, B1, B2, B3, C ช่วยขับลม แก้อาการท้องอืด ลดไขมันในเลือด มีใยอาหาร และแร่ธาตุ เช่น แคลเซียม ฟอสฟอรัส เหล็ก
+- หอมแดง : ให้พลังงาน โปรตีน ไขมัน คาร์โบไฮเดรต มี วิตามิน A, C, B-complex และแร่ธาตุจำเป็น ช่วยป้องกันหวัด คัดจมูก เสริมภูมิคุ้มกัน และแก้อาการแน่นท้อง
+- รากผักชี : ช่วยดับกลิ่นคาวของเนื้อสัตว์ ใช้เป็นสมุนไพรขับพิษไข้ บำรุงหัวใจ แก้อีสุกอีใส ให้กลิ่นหอมเฉพาะตัว ช่วยเจริญอาหาร    </div>
+        <div class="post-recipe-icons-row">
+                <div class="post-recipe-icon">
+            <i class="fa fa-cutlery" aria-hidden="true"></i>
+            <div class="post-recipe-icon-details">
+                <div class="post-recipe-icon-title">prep time</div>
+                <div class="post-recipe-icon-value">20 นาที</div>
+            </div>
+        </div>
+                        <div class="post-recipe-icon">
+            <i class="fa fa-clock-o" aria-hidden="true"></i>
+            <div class="post-recipe-icon-details">
+                <div class="post-recipe-icon-title">cooking time</div>
+                <div class="post-recipe-icon-value">1 ชั่วโมง</div>
+            </div>
+        </div>
+                        <div class="post-recipe-icon">
+            <i class="fa fa-users" aria-hidden="true"></i>
+            <div class="post-recipe-icon-details">
+                <div class="post-recipe-icon-title">servings</div>
+                <div class="post-recipe-icon-value">4</div>
+            </div>
+        </div>
+                        <div class="post-recipe-icon">
+            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+            <div class="post-recipe-icon-details">
+                <div class="post-recipe-icon-title">total time</div>
+                <div class="post-recipe-icon-value">1.20 ชั่วโมง</div>
+            </div>
+        </div>
+            </div>
+
+        <div class="post-recipe-details">
+                <div class="post-recipe-details-column">
+            <h4>Equipment</h4>
+            <ul>
+                <li><i class="fa fa-check" aria-hidden="true"></i><p>1. เขียงและมีด ใช้สำหรับหั่นมะเขือเทศ หมู หอมแดง พริก และวัตถุดิบอื่นให้เป็นชิ้นพอดี</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p>2. ครกและสาก ใช้ในการโขลกเครื่องแกง เช่น พริก ข่า ตะไคร้ รากผักชี หอมแดง เพื่อให้กลิ่นหอมเข้มข้นและคงความเป็นพริกแกงสดแบบพื้นเมือง</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p>3. หม้อขนาดกลางถึงใหญ่ สำหรับต้มและเคี่ยวน้ำแกง ควรเลือกหม้อที่ทนความร้อนได้ดีและไม่บางเกินไป เพื่อให้น้ำแกงร้อนสม่ำเสมอ</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p>4. เตาแก๊ส / เตาถ่าน / เตาไฟฟ้า ใช้เป็นแหล่งความร้อนในการต้มแกง สูตรพื้นบ้านดั้งเดิมนิยมใช้เตาถ่าน เพราะให้กลิ่นหอมควันอ่อน ๆ เพิ่มความกลมกล่อม</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p>5.ทัพพี / ตะหลิว / ช้อนคน สำหรับคนเครื่อง ปรุงรส และตักน้ำแกง ต้องใช้ทัพพีที่ทนความร้อนและจับถนัดมือ</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p>6. กะละมังหรือชามผสม ใช้คลุกหมูและเครื่องแกงก่อนนำลงหม้อ ใช้พักผัก หรือเตรียมดอกงิ้วแช่น้ำให้นุ่มก่อนปรุง</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p>7. ถ้วย เสิร์ฟ / จานขนมจีน ภาชนะสำหรับจัดเสิร์ฟขนมจีนให้ดูน่ารับประทาน พร้อมผักเคียง เช่น ผักกาดดอง ถั่วงอก กระเทียมเจียว</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p></p></li>            </ul>
+        </div>
+                        <div class="post-recipe-details-column">
+
+            <h4>Ingredients</h4>
+            <ul>
+                <li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">วัตถุดิบหลัก</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">เส้นขนมจีน	1 กิโลกรัม</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">เลือดไก่หรือเลือดหมู	ตามชอบ (ใช้ต้มกับน้ำซุป)</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">หมูสับ	ปริมาณตามต้องการ</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient"></p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">วัตถุดิบสมุนไพร / เครื่องแกง</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">ดอกงิ้วแห้ง	10 ดอก	ห้ามเลือด บำรุงเลือด</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">มะเขือเทศ	4–5 ผล	วิตามิน C, ไลโคปีน</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">พริกขี้หนู	5–10 เม็ด	กระตุ้นการเผาผลาญ</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">หอมแดง	5–8 หัว	แก้หวัด คัดจมูก</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">กระเทียมเจียว	2–3 ช้อนโต๊ะ	ลดไขมันในเลือด</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">รากผักชี	1–2 ราก	ดับกลิ่นคาว ขับพิษไข้</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient"></p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">เครื่องปรุงรส</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">น้ำปลา / เกลือ – ปรุงรสเค็ม</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">น้ำมัน – สำหรับเจียวกระเทียม</p></li><li><i class="fa fa-check" aria-hidden="true"></i><p property="recipeIngredient">เต้าเจี้ยว (ในบางสูตร เช่นสูตรพะเยา) – เพิ่มกลิ่นหอมเค็มนัว</p></li>            </ul>
+
+        </div>
+            </div>
+    
+        <div class="post-recipe-instructions-group">
+        <h4>Instructions</h4>
+                        <div class="post-recipe-instruction">
+            <div class="post-recipe-step">1</div>
+            <div class="post-recipe-instruction-content">
+                                <div class="post-recipe-instruction-title"><h4 property="recipeInstructions">เตรียมวัตถุดิบ</h4></div>
+                                                <div class="post-recipe-instruction-text" property="recipeInstructions">วัตถุดิบหลัก
+- เส้นขนมจีน 1 กิโลกรัม
+- หมูสับ
+- เลือดไก่หรือน้ำเลือดหมู (ใช้ต้มผสมในน้ำแกง)
+
+เครื่องปรุง/สมุนไพร
+- ดอกงิ้วแห้ง 10 ดอก (แช่น้ำให้นุ่ม)
+- มะเขือเทศ 4–5 ผล (หั่นชิ้น)
+- พริกขี้หนู 5–10 เม็ด
+- หอมแดง 5–8 หัว (บางส่วนซอย บางส่วนโขลก)
+- กระเทียมเจียว 2–3 ช้อนโต๊ะ
+- รากผักชี 1–2 ราก (ซอยบาง ๆ)
+- น้ำปลา/เกลือ
+- น้ำมันพืช</div>
+                            </div>
+        </div>
+                        <div class="post-recipe-instruction">
+            <div class="post-recipe-step">2</div>
+            <div class="post-recipe-instruction-content">
+                                <div class="post-recipe-instruction-title"><h4 property="recipeInstructions">เตรียมเครื่องแกง</h4></div>
+                                                <div class="post-recipe-instruction-text" property="recipeInstructions">นำพริกขี้หนู หอมแดงบางส่วน และรากผักชีมาซอยหยาบ โขลกรวมกันในครกให้ละเอียดจนเป็นเนื้อเดียวกัน กลายเป็น “เครื่องแกงสด” พักไว้
+
+</div>
+                            </div>
+        </div>
+                        <div class="post-recipe-instruction">
+            <div class="post-recipe-step">3</div>
+            <div class="post-recipe-instruction-content">
+                                <div class="post-recipe-instruction-title"><h4 property="recipeInstructions">ต้มน้ำเลือดและหมู</h4></div>
+                                                <div class="post-recipe-instruction-text" property="recipeInstructions">ต้มน้ำสะอาดในหม้อให้เดือด ใส่เลือดไก่หรือน้ำเลือดหมูลงไป คนเบา ๆ จนสุกและจับตัวเป็นเนื้อเดียว ใส่หมูสับลงไปต้มจนสุก ตักฟองออกให้ใสน้ำ</div>
+                            </div>
+        </div>
+                        <div class="post-recipe-instruction">
+            <div class="post-recipe-step">4</div>
+            <div class="post-recipe-instruction-content">
+                                <div class="post-recipe-instruction-title"><h4 property="recipeInstructions">ปรุงน้ำแกง</h4></div>
+                                                <div class="post-recipe-instruction-text" property="recipeInstructions">ใส่เครื่องแกงที่โขลกไว้ลงในหม้อ เติมมะเขือเทศและดอกงิ้วแห้งที่แช่น้ำแล้วลงไป เคี่ยวด้วยไฟกลางจนมะเขือเทศเปื่อย น้ำแกงมีสีแดงใสจากน้ำเลือดและมะเขือเทศ ปรุงรสด้วยน้ำปลา/เกลือตามชอบ เติมกระเทียมเจียวลงไปเพื่อเพิ่มกลิ่นหอม</div>
+                            </div>
+        </div>
+                        <div class="post-recipe-instruction">
+            <div class="post-recipe-step">5</div>
+            <div class="post-recipe-instruction-content">
+                                <div class="post-recipe-instruction-title"><h4 property="recipeInstructions">จัดเสิร์ฟ</h4></div>
+                                                <div class="post-recipe-instruction-text" property="recipeInstructions">ลวกเส้นขนมจีนให้สะอาด นำขึ้นพักให้สะเด็ดน้ำ จัดเส้นขนมจีนใส่จานหรือชาม ตักน้ำเงี้ยวร้อน ๆ ราดลงบนเส้นขนมจีน โรยหน้าด้วยกระเทียมเจียวและผักชี (ถ้ามี) เสิร์ฟพร้อมเครื่องเคียง เช่น ผักกาดดองซอย ถั่วงอกลวก หรือพริกแห้งทอด</div>
+                            </div>
+        </div>
+            </div>
+    
+        <div class="post-recipe-notes">
+        <h4>Notes</h4>
+        เคล็ดลับความอร่อย
+- เลือดไก่หรือเลือดหมูต้องสด
+- การใช้เลือดต้มสดใหม่จะช่วยให้น้ำแกงข้น กลมกล่อม และได้กลิ่นหอมเฉพาะตัว ไม่คาว
+- ใช้ดอกงิ้วแห้งแท้จากท้องถิ่น
+- ควรนำไปแช่น้ำให้นุ่มก่อนใช้ จะให้รสชาติหอมเฉพาะตัว และช่วยเรื่องการไหลเวียนโลหิต
+- เครื่องแกงต้องโขลกใหม่
+- พริก หอมแดง รากผักชี ข่า ตะไคร้ ควรโขลกเอง ไม่ใช้เครื่องแกงสำเร็จ เพื่อให้ได้กลิ่นหอมและรสลึกแบบดั้งเดิม
+- ไม่ควรเคี่ยวแรง การเคี่ยวไฟอ่อนจะทำให้น้ำแกงไม่แตกมัน หมูนุ่ม น้ำเลือดไม่เป็นก้อน และรสชาติกลมกล่อม
+
+ข้อควรระวัง
+- อย่าลืมเจียวกระเทียมแยกไว้ สำหรับโรยหน้าก่อนเสิร์ฟ เพราะเป็นเอกลักษณ์ของน้ำเงี้ยวที่ช่วยเพิ่มกลิ่นหอมและความกรุบเบา ๆ
+- ไม่ควรใช้มะเขือเทศเยอะเกินไป เพราะจะทำให้น้ำแกงเปรี้ยวเกิน และกลบรสของเครื่องแกง
+
+คำแนะนำเพิ่มเติม
+- เมนูนี้เหมาะกับการทำหม้อใหญ่ในงานบุญ งานวัด งานประเพณี 
+- หากทิ้งไว้ข้ามคืน แล้วอุ่นกินใหม่ จะยิ่งอร่อยขึ้น เพราะรสเครื่องแกงซึมลึก    </div>
+    </div>
+																				<div class="post-tags-wrapper">
+						<div class="tags clearfix">
+							<a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%82%e0%b8%99%e0%b8%a1%e0%b8%88%e0%b8%b5%e0%b8%99" rel="tag">ขนมจีน</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%82%e0%b8%99%e0%b8%a1%e0%b8%88%e0%b8%b5%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b9%89%e0%b8%a2%e0%b8%a7" rel="tag">ขนมจีนน้ำเงี้ยว</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b9%89%e0%b8%a2%e0%b8%a7" rel="tag">น้ำเงี้ยว</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%96%e0%b8%b4%e0%b9%88%e0%b8%99" rel="tag">อาหารท้องถิ่น</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99" rel="tag">อาหารพื้นบ้าน</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad" rel="tag">อาหารพื้นบ้านภาคเหนือ</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87" rel="tag">อาหารพื้นเมือง</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad" rel="tag">อาหารภาคเหนือ</a> <a href="https://archives.mju.ac.th/localfood/?tag=%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad" rel="tag">อาหารเหนือ</a>						</div>
+					</div>
+										
+										<div class="cookandmeal-post cookandmeal-post-bottom">
+					<div class="post-details-bottom post-details-bottom-single">
+
+    <div class="post-info-wrapper">
+            <div class="post-info-comments"><i class="fa fa-comment-o" aria-hidden="true"></i><a href="https://archives.mju.ac.th/localfood/?p=2295#respond">0</a></div>
+        
+        <div class="post-info-views"><i class="fa fa-eye" aria-hidden="true"></i>3771</div>
+            <div class="post-info-likes"><a href="#" class="post-like-button" data-id="2295"><i class="fa fa-heart-o" aria-hidden="true"></i></a><span class="post-like-counter">38</span></div>
+        </div>
+
+        <div class="post-info-share">
+      	<div class="post-social-wrapper">
+        <div class="post-social-title"><span class="post-social-title-text">Share</span></div>
+        <div class="post-social-frame">
+    		<div class="post-social">
+    			<a title="Share with Facebook" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="facebook" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" class="facebook-share"> <i class="fa fa-facebook"></i></a><a title="Pin this" href="https://archives.mju.ac.th/localfood/?p=2295" data-type="pinterest" data-title="ขนมจีนน้ำเงี้ยว: อาหารแห่งรากเหง้าไทใหญ่ สู่วิถีล้านนา" data-image="https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2025/04/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A71.png?resize=500%2C500&amp;ssl=1" class="pinterest-share"> <i class="fa fa-pinterest"></i></a><a title="Share by Email" href="mailto:?subject=ขนมจีนน้ำเงี้ยว:%20อาหารแห่งรากเหง้าไทใหญ่%20สู่วิถีล้านนา&body=https://archives.mju.ac.th/localfood/?p=2295" data-type="link" class="email-share"> <i class="fa fa-envelope-o"></i></a>    		</div>
+        </div>
+		<div class="clear"></div>
+	</div>
+	    </div>
+    
+</div>
+					</div>
+									</div>
+
+			</div>
+			
+		</div>	</div>
+	<div class="post-container-bottom container span-col-md-12 post-single-content">
+		<div class="row">
+			<div class="col-md-12 post-single-content">
+													
+				
+								<div class="blog-post-related-wrapper clearfix"><h5>You may also like</h5><div class="cookandmeal-list-post cookandmeal-list-medium-post cookandmeal-post format-standard" data-aos="fade-up"><div class="cookandmeal-post-image-wrapper"><a href="https://archives.mju.ac.th/localfood/?p=2414"><div class="cookandmeal-post-image" data-style="background-image: url(https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2026/04/Gemini_Generated_Image_i9o562i9o562i9o5.png?resize=555%2C360&#038;ssl=1);"></div></a></div><div class="cookandmeal-post-details"><div class="post-categories"><a href="https://archives.mju.ac.th/localfood/?cat=32" data-style="background-color: #000000;"><i class="fa fa-tag cat-dot"></i><span class="cat-title">Curry</span></a></div><h3 class="post-title entry-title"><a href="https://archives.mju.ac.th/localfood/?p=2414">“แกงชะอมใส่ไข่มดแดง” อาหารป่าตามฤดูกาลของชาวล้านนา</a></h3><div class="post-date"><time class="entry-date published updated" datetime="2026-04-30T10:22:21+07:00">30 April 2026</time></div><div class="post-info-dot"></div>
+<div class="post-read-time"><i class="fa fa-clock-o" aria-hidden="true"></i>20 นาที Cook</div>
+<div class="post-excerpt">“แกงชะอมใส่ไข่มดแดง” เป็นอาหารพื้นบ้านของภาคเหนือ โดยพบในพื้นที่จังหวัดน่าน โดยเฉพาะอำเภอทุ่งช้าง ซึ่งยังคงมีวิถีชีวิตที่ผูกพันกับธรรมชาติและทรัพยากรในท้องถิ่น เมนูนี้ถือเป็น “อาหารป่า” ที่นิยมปรุงในช่วงฤดูร้อน ซึ่งเป็นฤดูกาลที่สามารถหา “ไข่มดแดง” ได้ง่ายตามธรรมชาติ ชาวบ้านจะนำไข่มดแดงมาปรุงร่วมกับชะอมและสมุนไพรพื้นบ้าน เกิดเป็นอาหารที่มีรสชาติกลมกล่อมและมีเอกลักษณ์เฉพาะตัว ในอดีต เมนูนี้สะท้อนถึงภูมิปัญญาการใช้ทรัพยากรธรรมชาติอย่างรู้คุณค่า โดยใช้วัตถุดิบที่หาได้ตามฤดูกาล เช่น ชะอม ใบชะพลู และไข่มดแดง&#8230;
+Share this:
+				Share on Facebook (Opens in new window)
+				Facebook
+			
+				Share on X (Opens in new window)
+				X
+			Like this:Like Loading…</div>
+</div>
+
+</div>
+
+
+<div class="cookandmeal-list-post cookandmeal-list-medium-post cookandmeal-post format-standard" data-aos="fade-up"><div class="cookandmeal-post-image-wrapper"><a href="https://archives.mju.ac.th/localfood/?p=2423"><div class="cookandmeal-post-image" data-style="background-image: url(https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2026/04/Gemini_Generated_Image_4f07al4f07al4f07-scaled.png?resize=555%2C360&#038;ssl=1);"></div></a></div><div class="cookandmeal-post-details"><div class="post-categories"><a href="https://archives.mju.ac.th/localfood/?cat=32" data-style="background-color: #000000;"><i class="fa fa-tag cat-dot"></i><span class="cat-title">Curry</span></a></div><h3 class="post-title entry-title"><a href="https://archives.mju.ac.th/localfood/?p=2423">“แกงออกพร้าว” อาหารตามวิถีสวนมะพร้าวของชาวล้านนา</a></h3><div class="post-date"><time class="entry-date published updated" datetime="2026-04-29T14:34:26+07:00">29 April 2026</time></div><div class="post-info-dot"></div>
+<div class="post-read-time"><i class="fa fa-clock-o" aria-hidden="true"></i>30 นาที Cook</div>
+<div class="post-excerpt">“แกงออกพร้าว” หรือแกงยอดมะพร้าว เป็นอาหารพื้นบ้านที่พบในพื้นที่จังหวัดเชียงราย โดยเฉพาะในชุมชนที่มีการปลูกมะพร้าว เมื่อมีการตัดต้นมะพร้าว ชาวบ้านจะนำ “ยอดมะพร้าวอ่อน” ซึ่งเป็นส่วนที่กินได้และมีรสหวานธรรมชาติ มาปรุงอาหาร เมนูนี้สะท้อนถึงภูมิปัญญาการใช้ทรัพยากรอย่างคุ้มค่า เพราะยอดมะพร้าวไม่ใช่วัตถุดิบที่หาได้บ่อย ต้องรอจังหวะการตัดต้นมะพร้าว จึงมักเป็นอาหารพิเศษที่ไม่ได้ทำกินทุกวัน รสชาติของแกงออกพร้าวมีความหวานนุ่มจากยอดมะพร้าว ผสมกับความหอมของเครื่องแกงและกระดูกหมู เป็นเมนูที่เรียบง่ายแต่มีเอกลักษณ์ และสะท้อนวิถีชีวิตแบบพึ่งพาธรรมชาติของชาวล้านนาได้อย่างชัดเจน 👩‍🌾 ผู้ให้ข้อมูล: นางนิพัทธา&#8230;
+Share this:
+				Share on Facebook (Opens in new window)
+				Facebook
+			
+				Share on X (Opens in new window)
+				X
+			Like this:Like Loading…</div>
+</div>
+
+</div>
+
+
+<div class="cookandmeal-list-post cookandmeal-list-medium-post cookandmeal-post format-standard" data-aos="fade-up"><div class="cookandmeal-post-image-wrapper"><a href="https://archives.mju.ac.th/localfood/?p=2418"><div class="cookandmeal-post-image" data-style="background-image: url(https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2026/04/Gemini_Generated_Image_e4wqboe4wqboe4wq-1.png?resize=555%2C360&#038;ssl=1);"></div></a></div><div class="cookandmeal-post-details"><div class="post-categories"><a href="https://archives.mju.ac.th/localfood/?cat=32" data-style="background-color: #000000;"><i class="fa fa-tag cat-dot"></i><span class="cat-title">Curry</span></a></div><h3 class="post-title entry-title"><a href="https://archives.mju.ac.th/localfood/?p=2418">“แกงปลีใส่หมู” อาหารบำรุงแม่ลูกอ่อนของภูมิปัญญาพื้นบ้าน</a></h3><div class="post-date"><time class="entry-date published updated" datetime="2026-04-29T11:54:19+07:00">29 April 2026</time></div><div class="post-info-dot"></div>
+<div class="post-read-time"><i class="fa fa-clock-o" aria-hidden="true"></i>30 นาที Cook</div>
+<div class="post-excerpt">“แกงปลีใส่หมู” เป็นอาหารพื้นบ้านที่พบในหลายพื้นที่ของภาคเหนือ เช่น จังหวัดพะเยา โดยเฉพาะในชุมชนชนบทที่ยังคงสืบทอดความรู้ด้านอาหารเพื่อสุขภาพจากรุ่นสู่รุ่น เมนูนี้มีจุดเด่นคือการใช้ “หัวปลี” ซึ่งเป็นวัตถุดิบจากธรรมชาติที่หาได้ง่ายในครัวเรือน นำมาปรุงร่วมกับหมูและสมุนไพรพื้นบ้าน โดยมีความเชื่อและการใช้จริงว่า ช่วยบำรุงร่างกายของ “แม่ลูกอ่อน” และช่วยเพิ่มน้ำนม ในอดีต หัวปลีถือเป็นอาหารที่มีคุณค่าทางโภชนาการสูง และมักถูกนำมาใช้ในเมนูสำหรับผู้หญิงหลังคลอด เพราะมีใยอาหารสูงและช่วยระบบไหลเวียนเลือด “แกงปลีใส่หมู” จึงไม่ใช่เพียงอาหารธรรมดา แต่เป็นตัวแทนของ&#8230;
+Share this:
+				Share on Facebook (Opens in new window)
+				Facebook
+			
+				Share on X (Opens in new window)
+				X
+			Like this:Like Loading…</div>
+</div>
+
+</div>
+
+
+</div>				
+				  <div class="container cookandmeal-subscribe-block-container cookandmeal-block" data-aos="fade-up">
+        <div class="cookandmeal-subscribe-block">
+        </div>
+  </div>
+  
+				
+
+		<div class="clear"></div>
+					<div class="comments-form-wrapper" id="comments-form-wrapper">
+		
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply<small><a rel="nofollow" id="cancel-comment-reply-link" href="/localfood/?p=2295#respond" style="display:none;">Cancel reply</a></small></h3>			<form id="commentform" class="comment-form">
+				<iframe
+					title="Comment Form"
+					src="https://jetpack.wordpress.com/jetpack-comment/?blogid=230492348&#038;postid=2295&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Leave+a+Reply&#038;jetpack_comments_nonce=645b0bc23a&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_US&#038;jetpack_version=16.0.1&#038;iframe_unique_id=1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;is_current_user_subscribed=0&#038;token_key=%3Bnormal%3B&#038;sig=097329deb059e4b971767bd2517dcab415225ea5#parent=https%3A%2F%2Farchives.mju.ac.th%2Flocalfood%2F%3Fp%3D2295"
+											name="jetpack_remote_comment"
+						style="width:100%; height: 430px; border:0;"
+										class="jetpack_remote_comment"
+					id="jetpack_remote_comment"
+					sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"
+				>
+									</iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+				</div>
+		
+				</div>
+		</div>	</div></div>
+
+
+
+
+
+
+<div class="footer-sidebar-wrapper footer-white">
+  <div class="footer-sidebar sidebar container footer-sidebar-container">
+    <div class="footer-separator"></div>
+    <ul id="footer-sidebar">
+      <li id="cookandmeal-text-23" class="widget widget_cookandmeal_text">        <div class="cookandmeal-textwidget-wrapper ">
+                    <div class="cookandmeal-textwidget" data-style="background-image: url(https://wp.wp-preview.com/cookandmeal/cookandmeal-1/wp-content/uploads/2021/07/image-from-rawpixel-id-2409368-png-2.png);background-color: #f1eee4;padding: 30px 30px 30px 30px;text-align: left;"><h4>About</h4>
+<p>เว็บไซต์ที่รวบรวมสูตรอาหารท้องถิ่นจาก 8 จังหวัดภาคเหนือตอนบน (เชียงใหม่ เชียงราย แม่ฮ่องสอน ลำพูน ลำปาง พะเยา แพร่ และน่าน) นำเสนอความหลากหลายของวัตถุดิบและวิธีการปรุงที่สืบทอดมาจากบรรพบุรุษ พร้อมทั้งการปรับเปลี่ยนให้เข้ากับยุคสมัย
+</p></div>
+        </div>
+        </li>
+        <li id="cookandmeal-list-posts-14" class="widget widget_cookandmeal_list_entries">        <h2 class="widgettitle">Latest Recipes</h2>
+        <ul class="template-shortline-inside">
+
+                        <li class="template-shortline">
+            <div class="cookandmeal-shortline-post cookandmeal-post" data-aos="fade-up"><div class="cookandmeal-post-image-wrapper"><a href="https://archives.mju.ac.th/localfood/?p=2515"><div class="cookandmeal-post-image" data-style="background-image: url(https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2026/07/ChatGPT-Image-Jul-6-2026-03_37_30-PM.png?resize=220%2C180&#038;ssl=1);"></div></a></div><div class="cookandmeal-post-details">
+    <h3 class="post-title entry-title"><a href="https://archives.mju.ac.th/localfood/?p=2515">“ตำปลี” อาหารพื้นบ้านล้านนาจากหัวปลี</a></h3>
+    <div class="post-date"><time class="entry-date published updated" datetime="2026-07-06T16:02:34+07:00">6 July 2026</time></div></div></div>        </li>
+                                <li class="template-shortline">
+            <div class="cookandmeal-shortline-post cookandmeal-post" data-aos="fade-up"><div class="cookandmeal-post-image-wrapper"><a href="https://archives.mju.ac.th/localfood/?p=2511"><div class="cookandmeal-post-image" data-style="background-image: url(https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2026/07/ChatGPT-Image-Jul-6-2026-02_33_00-PM.png?resize=220%2C180&#038;ssl=1);"></div></a></div><div class="cookandmeal-post-details">
+    <h3 class="post-title entry-title"><a href="https://archives.mju.ac.th/localfood/?p=2511">“ตำกระท้อน” อาหารพื้นบ้านรสจัดจากผลไม้ตามฤดูกาล</a></h3>
+    <div class="post-date"><time class="entry-date published updated" datetime="2026-07-06T14:54:18+07:00">6 July 2026</time></div></div></div>        </li>
+                                <li class="template-shortline">
+            <div class="cookandmeal-shortline-post cookandmeal-post" data-aos="fade-up"><div class="cookandmeal-post-image-wrapper"><a href="https://archives.mju.ac.th/localfood/?p=2504"><div class="cookandmeal-post-image" data-style="background-image: url(https://i0.wp.com/archives.mju.ac.th/localfood/wp-content/uploads/2026/07/ChatGPT-Image-Jul-6-2026-01_14_21-PM.png?resize=220%2C180&#038;ssl=1);"></div></a></div><div class="cookandmeal-post-details">
+    <h3 class="post-title entry-title"><a href="https://archives.mju.ac.th/localfood/?p=2504">“คั่วหน่อไม้” อาหารพื้นบ้านจากผลผลิตฤดูฝนของชาวล้านนา</a></h3>
+    <div class="post-date"><time class="entry-date published updated" datetime="2026-07-06T13:53:10+07:00">6 July 2026</time></div></div></div>        </li>
+                
+        </ul>
+        </li>
+<li id="cookandmeal-categories-9" class="widget widget_cookandmeal_categories"><h2 class="widgettitle">Categories</h2>
+        <div class="post-categories-list">
+            <div class="cookandmeal-post cookandmeal-image-wrapper with-bg"><a href="https://archives.mju.ac.th/localfood/?cat=32" class="cookandmeal-featured-category-link">
+               <div class="post-categories-image cookandmeal-image" data-style="background-image: url(https://archives.mju.ac.th/localfood/wp-content/uploads/2024/11/curry-cat.png);"></div>
+               <div class="post-categories-overlay">
+               <div class="post-categories-bg" data-style="background-color: #000000;"></div>
+               <div class="post-categories"><div class="post-category"><i class="fa fa-tag cat-dot" aria-hidden="true"></i><span class="cat-title">Curry</span></div></div>
+               <span class="post-categories-counter">37 Posts</span>
+               </div></a>
+               </div><div class="cookandmeal-post cookandmeal-image-wrapper with-bg"><a href="https://archives.mju.ac.th/localfood/?cat=55" class="cookandmeal-featured-category-link">
+               <div class="post-categories-image cookandmeal-image" data-style="background-image: url(https://archives.mju.ac.th/localfood/wp-content/uploads/2024/11/deepfry-cat.png);"></div>
+               <div class="post-categories-overlay">
+               <div class="post-categories-bg" data-style="background-color: #000000;"></div>
+               <div class="post-categories"><div class="post-category"><i class="fa fa-tag cat-dot" aria-hidden="true"></i><span class="cat-title">Deep-fried</span></div></div>
+               <span class="post-categories-counter">3 Posts</span>
+               </div></a>
+               </div><div class="cookandmeal-post cookandmeal-image-wrapper with-bg"><a href="https://archives.mju.ac.th/localfood/?cat=58" class="cookandmeal-featured-category-link">
+               <div class="post-categories-image cookandmeal-image" data-style="background-image: url(https://archives.mju.ac.th/localfood/wp-content/uploads/2024/11/pastes-cat.png);"></div>
+               <div class="post-categories-overlay">
+               <div class="post-categories-bg" data-style="background-color: #000000;"></div>
+               <div class="post-categories"><div class="post-category"><i class="fa fa-tag cat-dot" aria-hidden="true"></i><span class="cat-title">Dipping sauces &amp; pastes</span></div></div>
+               <span class="post-categories-counter">6 Posts</span>
+               </div></a>
+               </div><div class="cookandmeal-post cookandmeal-image-wrapper with-bg"><a href="https://archives.mju.ac.th/localfood/?cat=116" class="cookandmeal-featured-category-link">
+               <div class="post-categories-image cookandmeal-image" data-style="background-image: url(https://archives.mju.ac.th/localfood/wp-content/uploads/2024/11/ethnic.png);"></div>
+               <div class="post-categories-overlay">
+               <div class="post-categories-bg" data-style="background-color: #000000;"></div>
+               <div class="post-categories"><div class="post-category"><i class="fa fa-tag cat-dot" aria-hidden="true"></i><span class="cat-title">Ethnic Foods</span></div></div>
+               <span class="post-categories-counter">10 Posts</span>
+               </div></a>
+               </div>        </div>
+        </li>
+    </ul>
+  </div>
+</div>
+
+<div class="footer-wrapper">
+  <footer class="main-footer footer-white">
+    <div class="container">
+      <div class="footer-separator"></div>
+      
+            <div class="footer-social">
+        <div class="social-icons-wrapper social-icons-with-bg"><a href="https://facebook.com/" target="_blank" class="a-facebook no-description"><i class="fa fa-facebook"></i></a><a href="https://instagram.com/" target="_blank" class="a-instagram no-description"><i class="fa fa-instagram"></i></a><a href="" target="_blank" class="a-youtube no-description"><i class="fa fa-youtube"></i></a></div>      </div>
+      
+      
+      <div class="footer-copyright">
+          <p>Proudly powered by <a href="https://archives.mju.ac.th/">Maejo University Archives</a></p>      </div>
+
+    </div>
+  </footer>
+</div>
+
+<a class="scroll-to-top" aria-label="Scroll to top" href="#top"></a>
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+				<div class="jetpack-instant-search__widget-area" style="display: none">
+					</div>
+		
+	<script >
+		window.WPCOM_sharing_counts = {"https://archives.mju.ac.th/localfood/?p=2295":2295,"https://archives.mju.ac.th/localfood/?p=2414":2414,"https://archives.mju.ac.th/localfood/?p=2423":2423,"https://archives.mju.ac.th/localfood/?p=2418":2418};
+	</script>
+				<script id="cookandmeal-ta-script-frontend-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/cookandmeal-theme-addons/assets/js.js?ver=7.0.2"></script>
+<script defer async id="tp-tools-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.5"></script>
+<script defer async id="revmin-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.5"></script>
+<script id="wp-hooks-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/dist/hooks.min.js"></script>
+<script id="wp-i18n-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/dist/i18n.min.js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wp-jp-i18n-loader-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/jetpack-search/jetpack_vendor/automattic/jetpack-assets/build/i18n-loader.js?minify=true&#038;ver=5ba5dddc04be2306aaf0"></script>
+<script id="wp-jp-i18n-loader-js-after">
+wp.jpI18nLoader.state = {"baseUrl":"https://archives.mju.ac.th/localfood/wp-content/languages/","locale":"en_US","domainMap":{"jetpack-admin-ui":"plugins/jetpack-search","jetpack-agents-manager":"plugins/jetpack-search","jetpack-assets":"plugins/jetpack-search","jetpack-boost-core":"plugins/jetpack-search","jetpack-boost-speed-score":"plugins/jetpack-search","jetpack-config":"plugins/jetpack-search","jetpack-connection":"plugins/jetpack-search","jetpack-explat":"plugins/jetpack-search","jetpack-ip":"plugins/jetpack-search","jetpack-jitm":"plugins/jetpack-search","jetpack-licensing":"plugins/jetpack-search","jetpack-menu-badges":"plugins/jetpack-search","jetpack-my-jetpack":"plugins/jetpack-search","jetpack-password-checker":"plugins/jetpack-search","jetpack-plugins-installer":"plugins/jetpack-search","jetpack-protect-models":"plugins/jetpack-search","jetpack-protect-status":"plugins/jetpack-search","jetpack-search-pkg":"plugins/jetpack-search","jetpack-stats":"plugins/jetpack-search","jetpack-sync":"plugins/jetpack-search","jetpack-wp-abilities":"plugins/jetpack-search","jetpack-wp-build-polyfills":"plugins/jetpack-search","jetpack-videopress-pkg":"plugins/jetpack-videopress","jetpack-account-protection":"plugins/jetpack","jetpack-activity-log":"plugins/jetpack","jetpack-backup-pkg":"plugins/jetpack","jetpack-blaze":"plugins/jetpack","jetpack-block-delimiter":"plugins/jetpack","jetpack-classic-theme-helper":"plugins/jetpack","jetpack-compat":"plugins/jetpack","jetpack-external-connections":"plugins/jetpack","jetpack-external-media":"plugins/jetpack","jetpack-forms":"plugins/jetpack","jetpack-image-cdn":"plugins/jetpack","jetpack-import":"plugins/jetpack","jetpack-jwt":"plugins/jetpack","jetpack-masterbar":"plugins/jetpack","jetpack-newsletter":"plugins/jetpack","jetpack-paypal-payments":"plugins/jetpack","jetpack-podcast":"plugins/jetpack","jetpack-post-list":"plugins/jetpack","jetpack-post-media":"plugins/jetpack","jetpack-publicize-pkg":"plugins/jetpack","jetpack-scan-page":"plugins/jetpack","jetpack-seo":"plugins/jetpack","jetpack-stats-admin":"plugins/jetpack","jetpack-waf":"plugins/jetpack"},"domainPaths":{"jetpack-admin-ui":"jetpack_vendor/automattic/jetpack-admin-ui/","jetpack-agents-manager":"jetpack_vendor/automattic/jetpack-agents-manager/","jetpack-assets":"jetpack_vendor/automattic/jetpack-assets/","jetpack-boost-core":"jetpack_vendor/automattic/jetpack-boost-core/","jetpack-boost-speed-score":"jetpack_vendor/automattic/jetpack-boost-speed-score/","jetpack-config":"jetpack_vendor/automattic/jetpack-config/","jetpack-connection":"jetpack_vendor/automattic/jetpack-connection/","jetpack-explat":"jetpack_vendor/automattic/jetpack-explat/","jetpack-ip":"jetpack_vendor/automattic/jetpack-ip/","jetpack-jitm":"jetpack_vendor/automattic/jetpack-jitm/","jetpack-licensing":"jetpack_vendor/automattic/jetpack-licensing/","jetpack-menu-badges":"jetpack_vendor/automattic/jetpack-menu-badges/","jetpack-my-jetpack":"jetpack_vendor/automattic/jetpack-my-jetpack/","jetpack-password-checker":"jetpack_vendor/automattic/jetpack-password-checker/","jetpack-plugins-installer":"jetpack_vendor/automattic/jetpack-plugins-installer/","jetpack-protect-models":"jetpack_vendor/automattic/jetpack-protect-models/","jetpack-protect-status":"jetpack_vendor/automattic/jetpack-protect-status/","jetpack-search-pkg":"jetpack_vendor/automattic/jetpack-search/","jetpack-stats":"jetpack_vendor/automattic/jetpack-stats/","jetpack-sync":"jetpack_vendor/automattic/jetpack-sync/","jetpack-wp-abilities":"jetpack_vendor/automattic/jetpack-wp-abilities/","jetpack-wp-build-polyfills":"jetpack_vendor/automattic/jetpack-wp-build-polyfills/","jetpack-videopress-pkg":"jetpack_vendor/automattic/jetpack-videopress/","jetpack-account-protection":"jetpack_vendor/automattic/jetpack-account-protection/","jetpack-activity-log":"jetpack_vendor/automattic/jetpack-activity-log/","jetpack-backup-pkg":"jetpack_vendor/automattic/jetpack-backup/","jetpack-blaze":"jetpack_vendor/automattic/jetpack-blaze/","jetpack-block-delimiter":"jetpack_vendor/automattic/block-delimiter/","jetpack-classic-theme-helper":"jetpack_vendor/automattic/jetpack-classic-theme-helper/","jetpack-compat":"jetpack_vendor/automattic/jetpack-compat/","jetpack-external-connections":"jetpack_vendor/automattic/jetpack-external-connections/","jetpack-external-media":"jetpack_vendor/automattic/jetpack-external-media/","jetpack-forms":"jetpack_vendor/automattic/jetpack-forms/","jetpack-image-cdn":"jetpack_vendor/automattic/jetpack-image-cdn/","jetpack-import":"jetpack_vendor/automattic/jetpack-import/","jetpack-jwt":"jetpack_vendor/automattic/jetpack-jwt/","jetpack-masterbar":"jetpack_vendor/automattic/jetpack-masterbar/","jetpack-newsletter":"jetpack_vendor/automattic/jetpack-newsletter/","jetpack-paypal-payments":"jetpack_vendor/automattic/jetpack-paypal-payments/","jetpack-podcast":"jetpack_vendor/automattic/jetpack-podcast/","jetpack-post-list":"jetpack_vendor/automattic/jetpack-post-list/","jetpack-post-media":"jetpack_vendor/automattic/jetpack-post-media/","jetpack-publicize-pkg":"jetpack_vendor/automattic/jetpack-publicize/","jetpack-scan-page":"jetpack_vendor/automattic/jetpack-scan-page/","jetpack-seo":"jetpack_vendor/automattic/jetpack-seo/","jetpack-stats-admin":"jetpack_vendor/automattic/jetpack-stats-admin/","jetpack-waf":"jetpack_vendor/automattic/jetpack-waf/"}};
+//# sourceURL=wp-jp-i18n-loader-js-after
+</script>
+<script id="wp-polyfill-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/dist/vendor/wp-polyfill.min.js"></script>
+<script id="wp-url-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/dist/url.min.js"></script>
+<script id="jetpack-instant-search-js-before">
+var JetpackInstantSearchOptions={"overlayOptions":{"colorTheme":"light","enableInfScroll":true,"enableFilteringOpensOverlay":true,"enablePostDate":true,"enableProductPrice":true,"enableSort":true,"highlightColor":"#FFC","overlayTrigger":"submit","resultFormat":"expanded","showPoweredBy":true,"defaultSort":"relevance","excludedPostTypes":["page","attachment","rl_gallery"],"fallbackImageUrl":"","enableFallbackImage":false},"homeUrl":"https://archives.mju.ac.th/localfood","locale":"en-US","postsPerPage":10,"siteId":230492348,"searchSuggestionsEnabled":false,"postTypes":{"post":{"singular_name":"Post","name":"Posts"},"page":{"singular_name":"Page","name":"Pages"},"attachment":{"singular_name":"Media","name":"Media"},"rl_gallery":{"singular_name":"Gallery","name":"Galleries"}},"webpackPublicPath":"https://archives.mju.ac.th/localfood/wp-content/plugins/jetpack-search/jetpack_vendor/automattic/jetpack-search/build/instant-search/","isPhotonEnabled":true,"isFreePlan":true,"apiRoot":"https://archives.mju.ac.th/localfood/index.php?rest_route=/","apiNonce":"4ebe34a4cc","isPrivateSite":false,"isWpcom":false,"hasOverlayWidgets":false,"widgets":[],"widgetsOutsideOverlay":[],"hasNonSearchWidgets":false,"preventTrackingCookiesReset":false,"disableTracking":false,"aiAnswersEnabled":false};
+//# sourceURL=jetpack-instant-search-js-before
+</script>
+<script id="jetpack-instant-search-js" src="https://archives.mju.ac.th/localfood/wp-content/plugins/jetpack-search/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.js?minify=false&#038;ver=9de017be31cb883a04fb"></script>
+<script id="jp-tracks-js" src="//stats.wp.com/w.js?ver=202632"></script>
+<script id="aos-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/aos/aos.js?ver=2.3.1"></script>
+<script id="jqy-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/jquery.youtube-background.min.js?ver=2.3.1"></script>
+<script id="parallax-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/parallax.min.js?ver=1.5.0"></script>
+<script id="thickbox-js-extra">
+var thickboxL10n = {"next":"Next \u003E","prev":"\u003C Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https://archives.mju.ac.th/localfood/wp-includes/js/thickbox/loadingAnimation.gif"};
+//# sourceURL=thickbox-js-extra
+</script>
+<script id="thickbox-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/thickbox/thickbox.js"></script>
+<script id="bootstrap-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/bootstrap.min.js?ver=3.1.1"></script>
+<script id="easing-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/easing.js?ver=1.3"></script>
+<script id="cookandmeal-select2-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/select2/select2.min.js?ver=3.5.1"></script>
+<script id="owl-carousel-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/owl-carousel/owl.carousel.min.js?ver=2.0.0"></script>
+<script id="cookandmeal-script-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/js/template.js?ver=1.3"></script>
+<script id="cookandmeal-script-js-after">
+(function($){
+  $(document).ready(function($) {
+
+    'use strict';
+
+    $('body').on('click', '.cookandmeal-post .post-like-button', function(e){
+
+      e.preventDefault();
+      e.stopPropagation();
+
+      var postlikes = $(this).next('.post-like-counter').text();
+      var postid = $(this).data('id');
+
+      if(getCookie('cookandmeal-likes-for-post-'+postid) == 1) {
+        // Already liked
+      } else {
+
+        setCookie('cookandmeal-likes-for-post-'+postid, '1', 365);
+
+        $(this).children('i').attr('class', 'fa fa-heart');
+
+        $(this).next('.post-like-counter').text(parseInt(postlikes) + 1);
+
+        var data = {
+            action: 'cookandmeal_likes',
+            postid: postid,
+        };
+
+        var ajaxurl = 'https://archives.mju.ac.th/localfood/wp-admin/admin-ajax.php';
+
+        $.post( ajaxurl, data, function(response) {
+
+            var wpdata = response;
+
+        });
+      }
+
+    });
+
+  });
+  })(jQuery);
+//# sourceURL=cookandmeal-script-js-after
+</script>
+<script async data-wp-strategy="async" fetchpriority="low" id="comment-reply-js" src="https://c0.wp.com/c/7.0.2/wp-includes/js/comment-reply.min.js"></script>
+<script id="cookandmeal-mega-menu-js" src="https://archives.mju.ac.th/localfood/wp-content/themes/cookandmeal/inc/modules/mega-menu/js/mega-menu.js?ver=1.0.0"></script>
+<script id="jetpack_likes_queuehandler-js" src="https://c0.wp.com/p/jetpack/16.0.1/_inc/build/likes/queuehandler.min.js"></script>
+<script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"230492348","post":"2295","tz":"7","srv":"archives.mju.ac.th","j":"1:16.0.1"} ]);
+_stq.push([ "clickTrackerInit", "230492348", "2295" ]);
+//# sourceURL=jetpack-stats-js-before
+</script>
+<script data-wp-strategy="defer" defer fetchpriority="low" id="jetpack-stats-js" src="https://stats.wp.com/e-202632.js"></script>
+<script id="sharing-js-js-extra">
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+//# sourceURL=sharing-js-js-extra
+</script>
+<script id="sharing-js-js" src="https://c0.wp.com/p/jetpack/16.0.1/_inc/build/sharedaddy/sharing.min.js"></script>
+<script id="sharing-js-js-after">
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-x' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-x' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomx', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+//# sourceURL=sharing-js-js-after
+</script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://archives.mju.ac.th/localfood/wp-includes/js/wp-emoji-release.min.js?ver=7.0.2"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://archives.mju.ac.th/localfood/wp-includes/js/wp-emoji-loader.min.js
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20260805#ver=20260805' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+			<script >
+			(function () {
+				const iframe = document.getElementById( 'jetpack_remote_comment' );
+								const watchReply = function() {
+					// Check addComment._Jetpack_moveForm to make sure we don't monkey-patch twice.
+					if ( 'undefined' !== typeof addComment && ! addComment._Jetpack_moveForm ) {
+						// Cache the Core function.
+						addComment._Jetpack_moveForm = addComment.moveForm;
+						const commentParent = document.getElementById( 'comment_parent' );
+						const cancel = document.getElementById( 'cancel-comment-reply-link' );
+
+						function tellFrameNewParent ( commentParentValue ) {
+							const url = new URL( iframe.src );
+							if ( commentParentValue ) {
+								url.searchParams.set( 'replytocom', commentParentValue )
+							} else {
+								url.searchParams.delete( 'replytocom' );
+							}
+							if( iframe.src !== url.href ) {
+								iframe.src = url.href;
+							}
+						};
+
+						cancel.addEventListener( 'click', function () {
+							tellFrameNewParent( false );
+						} );
+
+						addComment.moveForm = function ( _, parentId ) {
+							tellFrameNewParent( parentId );
+							return addComment._Jetpack_moveForm.apply( null, arguments );
+						};
+					}
+				}
+				document.addEventListener( 'DOMContentLoaded', watchReply );
+				// In WP 6.4+, the script is loaded asynchronously, so we need to wait for it to load before we monkey-patch the functions it introduces.
+				document.querySelector('#comment-reply-js')?.addEventListener( 'load', watchReply );
+
+								
+				const commentIframes = document.getElementsByClassName('jetpack_remote_comment');
+
+				window.addEventListener('message', function(event) {
+					if (event.origin !== 'https://jetpack.wordpress.com') {
+						return;
+					}
+
+					if (!event?.data?.iframeUniqueId && !event?.data?.height) {
+						return;
+					}
+
+					const eventDataUniqueId = event.data.iframeUniqueId;
+
+					// Change height for the matching comment iframe
+					for (let i = 0; i < commentIframes.length; i++) {
+						const iframe = commentIframes[i];
+						const url = new URL(iframe.src);
+						const iframeUniqueIdParam = url.searchParams.get('iframe_unique_id');
+						if (iframeUniqueIdParam == event.data.iframeUniqueId) {
+							iframe.style.height = event.data.height + 'px';
+							return;
+						}
+					}
+				});
+			})();
+		</script>
+		</body>
+</html>
